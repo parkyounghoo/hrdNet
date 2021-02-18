@@ -1,0 +1,6 @@
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\hrdNet\bin\Debug\hrdNet.exe.config
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\hrdNet\bin\Debug\hrdNet.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\hrdNet\bin\Debug\hrdNet.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\hrdNet\obj\Debug\hrdNet.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\hrdNet\obj\Debug\hrdNet.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\hrdNet\obj\Debug\hrdNet.csprojAssemblyReference.cache
